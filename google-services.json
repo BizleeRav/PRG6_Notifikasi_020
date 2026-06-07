@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137502039306",
+    "project_id": "prg6-deathreminder-020",
+    "storage_bucket": "prg6-deathreminder-020.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137502039306:android:d219e2a4984c9e11b36ef3",
+        "android_client_info": {
+          "package_name": "com.deverick.deathreminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL6u1IYw2-aVQiS3NKaqojRrz1C_QeCjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
